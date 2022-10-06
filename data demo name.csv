@@ -1,0 +1,6 @@
+# JMeter generated Header file
+Content-Type	application/json
+Authorization	${token}
+X-AUTH-SECRET-KEY	ROADTOSDET
+userid	${userid}
+response	${response}
